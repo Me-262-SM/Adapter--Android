@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adapter</string>
+    <string-array name="names">
+        <item>zzy</item>
+        <item>hr</item>
+        <item>yzw</item>
+        <item>xs</item>
+        <item>zsh</item>
+    </string-array>
+
+</resources>
